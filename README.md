@@ -1,4 +1,4 @@
-# LyricFinder App || Refactored using React Hooks
+# LyricFinder App || API CONTEXT + using React Hooks
 
 > App that finds song lyrics using React and the Musixmatch API.
 
